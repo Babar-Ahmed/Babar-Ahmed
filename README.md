@@ -17,7 +17,7 @@
 
 [<img align="left" alt="babarqureshi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="babar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="babar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="babar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="babar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="babar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -106,7 +106,7 @@
 </details> -->
 
 [website]: https://babarqureshi.com
-[twitter]: https://twitter.com/codeSTACKr
+[facebook]: https://facebook.com/babarqureshi07
 [youtube]: https://youtube.com/technicalbabar
 [instagram]: https://www.instagram.com/babar_qureshi1/?hl=en
 [linkedin]: https://linkedin.com/in/babarqureshi
