@@ -12,10 +12,6 @@
 👩‍💻 Learning "Artificial Intelligence" ...
 
 
-
-
-
-
 ### Connect with me:
 
 [<img align="left" alt="babarqureshi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -26,9 +22,8 @@
 
 <br />
 
-<br>
-### 🏅 Latest Proect 
-  Food ordering Website ==>🔗 food.freetechcourse.com
+### 🏅 Latest Web Proect 
+  Food ordering Website ==>🔗 https://food.freetechcourse.com
   Free Tech Course    ==>>    https://freetechcourse.comm
   LMS Website   ===>  🔗  https://eduma.freetechcourse.com
   Learn English ===>>🔗https://noorenglishacademy.com
