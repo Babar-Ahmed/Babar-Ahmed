@@ -4,13 +4,13 @@
 
 ## I'm a Web Developer, Student Of IT🎓,!!
 
-🏛️ 3rd year IT Student, at University Of Sindh
+🏛️ <b>3rd year IT Student, at University Of Sindh</b>
 
-📚 Learned "Front End Development using React"
+📚 <b>Learned "Front End Development using React"</b>
 
-🌏 Learning "Full Stack Web Application Development" .....
+🌏 <b>Learning "Full Stack Web Application Development"</b>
 
-👩‍💻 Learning "Artificial Intelligence" ...
+👩‍💻 <b>Learning "Artificial Intelligence"</b>
 
 
 ### Connect with me:
