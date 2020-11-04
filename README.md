@@ -1,6 +1,6 @@
 ### Hi there, I'm Babar Qureshi- [babarqureshi][website] 👋
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-babarqureshi.com-2648ff?style=flat-square&logo=google-chrome)](https://babarqureshi.com/)
+[![website]https://img.shields.io/website?label=Babar%20Qureshi&style=for-the-badge&up_color=important&up_message=Portfolio%20Website&url=https%3A%2F%2Fbabarqureshi.com
 
 ## I'm a Web Developer, Student Of IT🎓,!!
 
