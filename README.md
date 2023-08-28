@@ -1,9 +1,9 @@
 ### Hi there, I'm Babar Qureshi- [babarqureshi][website] 👋
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-babarqureshi.com-important?style=for-the-badge&logo=google-chrome)](https://babarqureshi.com/)
-## I'm a Web Developer, Student Of IT🎓,!!
+## I'm a Full Stack Web Developer🎓,!!
 
-🏛️ <b>3rd year IT Student, at University Of Sindh</b>
+🏛️ <b>Graduated In BSIT Information Technology, at University Of Sindh</b>
 
 📚 <b>Learned "Front End Development using React"</b>
 
