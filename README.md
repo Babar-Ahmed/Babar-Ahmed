@@ -23,9 +23,9 @@
 <br />
 
 ### 🏅 Latest Web Proect 
- 🍔 Food ordering Website ==>🔗 https://food.freetechcourse.com<br>
- 📚 Free Tech Course    ==>>    https://freetechcourse.com<br>
- 💻 LMS Website   ===>  🔗  https://eduma.freetechcourse.com<br>
+ 🍔 Digital Agency Website ==>🔗 https://webdigitallab.com/<br>
+ 📚 Portfolio    ==>>    https://portfolio.choicewebsolutions.com/<br>
+ 💻 Web Solution project   ===>  🔗  https://choicewebsolutions.com/<br>
  📗 Learn English ===>>🔗https://noorenglishacademy.com
 
 ### Languages and Tools:
